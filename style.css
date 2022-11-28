@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.header {
+    padding: 20px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 0px;
+}
+
+.footer {
+    background-color: #333;
+}
+
+.footer .copyright {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
